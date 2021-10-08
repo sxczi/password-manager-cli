@@ -1,0 +1,14 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "A Password manager I built",
+  "main": "bin/main.js",
+  "license": "MIT",
+  "bin": {
+    "password-manager": "./bin/main.js"
+  },
+  "keywords": ["cli"],
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
